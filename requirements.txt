@@ -1,0 +1,25 @@
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain_huggingface
+
+# API keys and environment variables
+python-dotenv
+
+# Vector database / similarity search
+faiss-cpu
+tiktoken
+
+# Backend API
+fastapi
+uvicorn
+requests
